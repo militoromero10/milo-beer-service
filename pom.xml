@@ -23,7 +23,7 @@
     <name>mssc-beer-service</name>
     <description>MSSC Beer Service</description>
 
-    <dependencies>ñ
+    <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-cache</artifactId>
