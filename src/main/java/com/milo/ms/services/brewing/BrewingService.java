@@ -1,4 +1,4 @@
-package com.milo.ms.services;
+package com.milo.ms.services.brewing;
 
 import com.milo.ms.config.JmsConfig;
 import com.milo.ms.domain.Beer;
