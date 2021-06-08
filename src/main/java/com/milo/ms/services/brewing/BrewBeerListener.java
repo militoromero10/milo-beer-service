@@ -2,8 +2,8 @@ package com.milo.ms.services.brewing;
 
 import com.milo.ms.config.JmsConfig;
 import com.milo.ms.domain.Beer;
-import com.milo.ms.events.BrewBeerEvent;
-import com.milo.ms.events.NewInventoryEvent;
+import com.milo.common.events.BrewBeerEvent;
+import com.milo.common.events.NewInventoryEvent;
 import com.milo.ms.repositories.BeerRepository;
 import com.milo.ms.web.model.BeerDto;
 import lombok.RequiredArgsConstructor;

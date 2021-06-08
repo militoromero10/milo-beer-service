@@ -1,4 +1,4 @@
-package com.milo.ms.events;
+package com.milo.common.events;
 
 import com.milo.ms.web.model.BeerDto;
 import lombok.*;
