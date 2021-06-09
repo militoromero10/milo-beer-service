@@ -2,12 +2,11 @@ package com.milo.ms.bootstrap;
 
 import com.milo.ms.domain.Beer;
 import com.milo.ms.repositories.BeerRepository;
-import com.milo.ms.web.model.BeerStyleEnum;
+import com.milo.brewery.model.BeerStyleEnum;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
-import java.util.UUID;
 
 @Component
 public class BeerLoader implements CommandLineRunner {

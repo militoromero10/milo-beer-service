@@ -2,7 +2,7 @@ package com.milo.ms.services.brewing;
 
 import com.milo.ms.config.JmsConfig;
 import com.milo.ms.domain.Beer;
-import com.milo.common.events.BrewBeerEvent;
+import com.milo.brewery.model.events.BrewBeerEvent;
 import com.milo.ms.repositories.BeerRepository;
 import com.milo.ms.services.inventory.BeerInventoryService;
 import com.milo.ms.web.mappers.BeerMapper;

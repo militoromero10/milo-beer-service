@@ -2,10 +2,10 @@ package com.milo.ms.services.brewing;
 
 import com.milo.ms.config.JmsConfig;
 import com.milo.ms.domain.Beer;
-import com.milo.common.events.BrewBeerEvent;
-import com.milo.common.events.NewInventoryEvent;
+import com.milo.brewery.model.events.BrewBeerEvent;
+import com.milo.brewery.model.events.NewInventoryEvent;
 import com.milo.ms.repositories.BeerRepository;
-import com.milo.ms.web.model.BeerDto;
+import com.milo.brewery.model.BeerDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;

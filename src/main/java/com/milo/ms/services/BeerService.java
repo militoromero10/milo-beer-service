@@ -1,8 +1,8 @@
 package com.milo.ms.services;
 
-import com.milo.ms.web.model.BeerDto;
-import com.milo.ms.web.model.BeerPagedList;
-import com.milo.ms.web.model.BeerStyleEnum;
+import com.milo.brewery.model.BeerDto;
+import com.milo.brewery.model.BeerPagedList;
+import com.milo.brewery.model.BeerStyleEnum;
 import org.springframework.data.domain.PageRequest;
 
 import java.util.UUID;

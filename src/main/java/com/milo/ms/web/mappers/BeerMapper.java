@@ -1,7 +1,7 @@
 package com.milo.ms.web.mappers;
 
 import com.milo.ms.domain.Beer;
-import com.milo.ms.web.model.BeerDto;
+import com.milo.brewery.model.BeerDto;
 import org.mapstruct.DecoratedWith;
 import org.mapstruct.Mapper;
 

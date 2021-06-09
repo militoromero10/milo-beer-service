@@ -1,6 +1,6 @@
-package com.milo.common.events;
+package com.milo.brewery.model.events;
 
-import com.milo.ms.web.model.BeerDto;
+import com.milo.brewery.model.BeerDto;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
