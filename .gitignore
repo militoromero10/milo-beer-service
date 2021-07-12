@@ -1,3 +1,27 @@
+HELP.md
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
 ######################
 # Project Specific
 ######################
@@ -22,7 +46,6 @@ npm-debug.log.*
 # Eclipse
 ######################
 *.pydevproject
-.project
 .metadata
 tmp/
 tmp/**/*
@@ -31,10 +54,8 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
-.classpath
 .settings/
 .loadpath
-.factorypath
 /src/main/resources/rebel.xml
 
 # External tool builders
@@ -68,7 +89,6 @@ local.properties
 # Maven
 ######################
 /log/
-/target
 */target/**
 ######################
 # Gradle
@@ -140,4 +160,3 @@ Desktop.ini
 ######################
 .eslintcache
 /.idea/
-

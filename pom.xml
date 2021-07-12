@@ -17,11 +17,11 @@
     </parent>
 -->
 
-    <groupId>guru.springframework</groupId>
-    <artifactId>mssc-beer-service</artifactId>
+    <groupId>com.milo</groupId>
+    <artifactId>milo-beer-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-beer-service</name>
-    <description>MSSC Beer Service</description>
+    <name>milo-beer-service</name>
+    <description>Milo Beer Service</description>
 
     <dependencies>
         <dependency>
